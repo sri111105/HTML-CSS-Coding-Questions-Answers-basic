@@ -1,0 +1,5 @@
+Create a 2-column layout using CSS flexbox
+<div style="display:flex; gap:20px;">
+  <div style="flex:1; background:#ddd; padding:10px;">Column 1</div>
+  <div style="flex:1; background:#bbb; padding:10px;">Column 2</div>
+</div>

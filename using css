@@ -1,0 +1,12 @@
+Q7: Highlight every alternate row in a table using CSS
+<table>
+  <tr><th>ID</th><th>Name</th></tr>
+  <tr><td>1</td><td>John</td></tr>
+  <tr><td>2</td><td>Jane</td></tr>
+  <tr><td>3</td><td>Mike</td></tr>
+</table>
+
+<style>
+  tr:nth-child(even) { background-color: #f2f2f2; }
+</style>
+

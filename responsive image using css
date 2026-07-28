@@ -1,0 +1,2 @@
+ Make a responsive image using CSS
+<img src="image.jpg" style="width:100%; max-width:500px; height:auto;">

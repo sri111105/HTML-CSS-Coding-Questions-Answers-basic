@@ -1,0 +1,6 @@
+<form>
+  <input type="text" placeholder="Name" required><br>
+  <input type="email" placeholder="Email" required><br>
+  <input type="number" placeholder="Age"><br>
+  <button type="submit">Submit</button>
+</form>

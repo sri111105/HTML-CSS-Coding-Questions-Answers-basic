@@ -1,0 +1,2 @@
+Add a tooltip on a button using HTML attributes
+<button title="Click to submit">Submit</button>
